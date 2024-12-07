@@ -1,0 +1,1 @@
+We are familiar with the major concept of classification now. From now on, we solce different problems with difference methodes and choose the best method to solve the problem. The dataset for each file will be with it.
